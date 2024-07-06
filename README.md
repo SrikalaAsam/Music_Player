@@ -1,4 +1,4 @@
-# Music Player
+# Music Player (TechAlpha_Task)
 This is a simple and interactive Music Player web application built using HTML, CSS, and JavaScript. The project aims to provide a user-friendly interface to play, pause, and navigate through a list of songs.
 
 # Features
